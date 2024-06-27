@@ -1,0 +1,15 @@
+*/__pycache__/*
+*/.pytest_cache/*
+*/.vscode/*
+*/.idea/*
+*/.mypy_cache/*
+*/.mypy_cache/*
+*/.pytest_cache/*
+*/.tox/*
+*/.coverage
+*/.coverage.*
+*/.DS_Store
+*/.mypy_cache/*
+*/.pytest_cache/*
+*/.tox/*
+*/.vscode/*
